@@ -4,7 +4,7 @@
  * Created by chenweiwu at 2021/7/9 13:56
  */
 
-namespace Ww;
+namespace Wwwwwww;
 
 
 class UploadFile
