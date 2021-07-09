@@ -29,19 +29,19 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a99d7ae07ac2ec3817b3f424bc8221afe63aa88a',
-    'name' => 'ww/upload',
+    'reference' => 'c8ec5c5970da2a1b11f09e19ed57b30920d501ff',
+    'name' => 'wwwwwwww/upload',
   ),
   'versions' => 
   array (
-    'ww/upload' => 
+    'wwwwwwww/upload' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => 'a99d7ae07ac2ec3817b3f424bc8221afe63aa88a',
+      'reference' => 'c8ec5c5970da2a1b11f09e19ed57b30920d501ff',
     ),
   ),
 );

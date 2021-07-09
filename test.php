@@ -6,6 +6,6 @@
 
 require_once './vendor/autoload.php';
 
-$uploadFile = new \Ww\UploadFile();
+$uploadFile = new \Wwwwwww\UploadFile();
 
 $uploadFile->upload();
